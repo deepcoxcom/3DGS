@@ -3,7 +3,7 @@
   <h1 align="center">High-Fidelity Street Scene Reconstruction with Dynamic Object Elimination via 3D Gaussian Splatting</h1>
   <h2 align="center">ICML 2024</h2>
 
-### [Project Page](https://kcheng1021.github.io/gaussianpro.github.io/) | [Paper](https://arxiv.org/abs/2402.14650) | [web](https://deepcox.com/3dgs)
+### [Paper]() | [web](https://deepcox.com/3dgs)
 
 <table>
   <tr>
