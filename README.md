@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1 align="center">High-Fidelity Street Scene Reconstruction with Dynamic Object Elimination via 3D Gaussian Splatting</h1>
-  <h2 align="center">ICML 2024</h2>
+  <h2 align="center">2025</h2>
 
 ### [Paper]() | [web](https://deepcox.com/3dgs)
 
