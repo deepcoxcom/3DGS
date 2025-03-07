@@ -8,30 +8,30 @@
 <table>
   <tr>
     <td align="center">
-      <img src="figs/nagoya_before_1.gif" width="200">
+      <img src="figs/nagoya_before_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/nagoya_before_2.gif" width="200">
+      <img src="figs/nagoya_before_2.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_before_1.gif" width="200">
+      <img src="figs/quebec_before_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_before_2.gif" width="200">
+      <img src="figs/quebec_before_2.gif" width="160">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figs/nagoya_after_1.gif" width="200">
+      <img src="figs/nagoya_after_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/nagoya_after_2.gif" width="200">
+      <img src="figs/nagoya_after_2.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_after_1.gif" width="200">
+      <img src="figs/quebec_after_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_after_2.gif" width="200">
+      <img src="figs/quebec_after_2.gif" width="160">
     </td>
   </tr>
 </table>
