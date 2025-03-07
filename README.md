@@ -149,9 +149,9 @@ https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive
 #### Try your scenes:
 
 ```
-**If you want to try your scenes, make sure your images are sorted in the time order, i.e. video data. The current version does not support unordered image sets. Then you can try the commands in demo.sh to run your own scenes.**
+# If you want to try your scenes, make sure your images are sorted in the time order, i.e. video data. The current version does not support unordered image sets. Then you can try the commands in demo.sh to run your own scenes.
 
-**Please ensure that your neighboring images have sufficient overlap.**
+# Please ensure that your neighboring images have sufficient overlap.
 
 ```
 </div>
