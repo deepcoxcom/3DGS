@@ -8,30 +8,30 @@
 <table>
   <tr>
     <td align="center">
-      <img src="figs/nagoya_before_1.gif" width="158">
+      <img src="figs/nagoya_before_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/nagoya_before_2.gif" width="158">
+      <img src="figs/nagoya_before_2.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_before_1.gif" width="158">
+      <img src="figs/quebec_before_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_before_2.gif" width="158">
+      <img src="figs/quebec_before_2.gif" width="160">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="figs/nagoya_after_1.gif" width="158">
+      <img src="figs/nagoya_after_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/nagoya_after_2.gif" width="158">
+      <img src="figs/nagoya_after_2.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_after_1.gif" width="158">
+      <img src="figs/quebec_after_1.gif" width="160">
     </td>
     <td align="center">
-      <img src="figs/quebec_after_2.gif" width="158">
+      <img src="figs/quebec_after_2.gif" width="160">
     </td>
   </tr>
 </table>
@@ -126,10 +126,10 @@ python train.py -s data/peoplecarstreeview --eval
 
 ```
 # Nagoya:
-https://drive.google.com/drive/my-drive/streeview
+https://drive.google.com/file/d/1rblrxazeeSCfnQ7QAUrK7_lLZVu5q54C/view?usp=sharing
 
 # Quebec:
-https://drive.google.com/drive/my-drive/peoplecarstreeview
+https://drive.google.com/file/d/1XbEOvhHi-3tWbAkUeg2Ecyi8zHMvHsbr/view?usp=drive_link
 
 ```
 
