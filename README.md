@@ -3,7 +3,7 @@
   <h1 align="center">High-Fidelity Street Scene Reconstruction with Dynamic Object Elimination via 3D Gaussian Splatting</h1>
   <h2 align="center">2025</h2>
 
-### [Paper]() | [web](https://deepcox.com/3dgs)
+### [Paper]() | [web](https://deepcox.com/research/3dgs)
 
 <table>
   <tr>
